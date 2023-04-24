@@ -1,7 +1,6 @@
 import sys
-from PyQt6.QtWidgets import QApplication, QWidget, QStyleFactory, QLabel, QComboBox, QHBoxLayout, QGroupBox, \
-    QVBoxLayout, QPushButton, QLineEdit, QTabWidget
-from PyQt6.QtCore import Qt
+from PyQt6.QtWidgets import *
+from PyQt6.QtCore import *
 
 
 def add_mes_items(combo_box):
